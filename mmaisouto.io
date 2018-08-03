@@ -22,9 +22,9 @@ stages:
         script: |-
             #!/bin/bash
             cf create-service iotf-service iotf-service-free discover-iot-try-service
-            cf push "${CF_APP}"
+            cf push `${CF_APP}`;
             # View logs
-            cf logs "${CF_APP}" --recent
+            cf logs "${CF_APP}" --l
         target: 
           organization: ${CF_ORGANIZATION}
           space: ${CF_SPACE}
