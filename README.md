@@ -6,4 +6,4 @@ https://developer.ibm.com/tutorials/iot-simple-iot-accelerometer-game/
 
 [![Deploy to IBM Cloud](https://cloud.ibm.com/deploy/button.png)]
 
-<img src="https://cloud.ibm.com/devops/setup/deploy/button.png" alt="Deploy to IBM Cloud">(https://cloud.ibm.com/deploy?repository=https://github.com/thomasrueter/discover-iot-sample-tr)
+[!["Deploy to IBM Cloud"](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/deploy?repository=https://github.com/thomasrueter/discover-iot-sample-tr)
