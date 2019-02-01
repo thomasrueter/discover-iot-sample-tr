@@ -1,7 +1,7 @@
 # discover-iot-sample
 
 Sample application for connecting a smartphone to IBM IBM Watson IoT Platform.
+based on a receipe from Romeo Kienzler to be found under
+https://developer.ibm.com/tutorials/iot-simple-iot-accelerometer-game/
 
-(https://discover-iot.mybluemix.net)
-
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/thomasrueter/discover-iot-sample-tr)
+[![Deploy to IBM Cloud](https://cloud.ibm.com/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/thomasrueter/discover-iot-sample-tr)
